@@ -1,30 +1,27 @@
-
 # C++ Basic Programs
 
-This repository contains beginner-level C++ programs created while learning fundamental programming concepts.
+This repository contains beginner-level C++ programs created while learning fundamental programming concepts and data structures.
+
+## Folder Structure
+- `c++concepts.cpp/` — Functions, Arrays, Loops basics
+- Root files — Pointers, References, Dynamic Memory programs
 
 ## Topics Covered
 
-### Functions
-- Hello Function
-- Function with Arguments
-- Factorial Using Function
+### Functions & Loops
+Hello function, function with arguments, factorial, basic loops, array sum/max/reverse
 
-### Arrays
-- Sum of Array
-- Maximum Element in Array
-- Reverse Array
+### Pointers
+Introduction, dereferencing, double pointers, increment/decrement, comparison, const pointers, modifying addresses
 
-### Loops
-- Print Numbers 1 to 10
-- Print Even Numbers from 1 to 20
-- Print Odd Numbers from 1 to 20
-- Sum of First N Numbers
+### References
+Reference basics, passing arguments by reference, returning references from functions
+
+### Dynamic Memory Allocation
+*(coming up)*
 
 ## Language
-
 C++
 
 ## Purpose
-
-This repository is part of my C++ learning journey and contains practice programs covering basic programming concepts.
+Part of my C++ and DSA learning journey, building toward open-source contributions and GSoC preparation.
